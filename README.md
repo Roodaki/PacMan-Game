@@ -1,15 +1,19 @@
-<h1 align="center">Pac-Man Game</h1> <div align="center">
-<img src="https://gifimage.net/wp-content/uploads/2017/11/fantasmas-de-pacman-gif-3.gif" align="center" style="width: 100%" /> </div>
+<div align="center">
+  <h1><strong>Pacman Game</strong></h1>
+  <p><strong>This is a recreation of the classic arcade game Pacman using Game Maker 8.0.</strong></p>
+</div>
 
-## The Gameplay
-The player controls the eponymous character through an enclosed maze. The objective of the game is to eat all of the dots placed in the maze while avoiding four colored ghosts that pursue Pac-Man. When Pac-Man eats all of the dots, the player wins. If Pac-Man is caught by a ghost, he will lose.
-
-src: https://en.wikipedia.org/wiki/Pac-Man#Gameplay
-
-## The GameMaker Engine
-[GameMaker](https://gamemaker.io/en) is a complete development tool for making 2D games, used by indie developers, professional studios, and educators worldwide. Create games for Windows, Mac, Linux, Android, iOS, HTML5, Xbox, PlayStation, and Nintendo Switch.
-
-![GameMaker Environment](https://user-images.githubusercontent.com/89901590/191744666-d66672cd-4736-4c81-898f-fa3182a3af2d.png)
-
-## My Project
 ![Screenshot (403)](https://user-images.githubusercontent.com/89901590/191745269-cf1a8d0b-e3e3-41a2-b84e-36f5f6fbe1f1.png)
+
+## Installation
+To play the game, follow these steps:
+1. Download and install Game Maker 8.0 from [here](http://www.yoyogames.com/gamemaker/windows).
+2. Download the Pacman Game with Game Maker 8.0 project from this repository.
+3. Open Game Maker 8.0, select "Open an existing project", and choose the project file you downloaded in step 2.
+4. Click the "Run" button to start playing the game.
+
+## Gameplay
+The gameplay of this Pacman game is very similar to the original arcade game. You play as Pacman, a yellow circle with a mouth that must eat all the pellets in a maze while avoiding the ghosts that chase him. If Pacman touches a ghost, the game ends. Pacman has only one life, so be careful! The game is won when Pacman eats all the pellets in the maze.
+
+## Controls
+Use the arrow keys to move Pacman around the maze.
